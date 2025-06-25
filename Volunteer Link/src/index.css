@@ -1,0 +1,55 @@
+body {
+  padding: 60px;
+  background-color: #2f4f4f;
+}
+
+.org-container {
+  display: inline-block;
+  align-items: center;
+  min-height: 50vh;
+  padding-left: 5%;
+  width: auto;
+  height: auto;
+}
+
+
+.org {
+  padding: 4.5%;
+  padding-right: 15px;
+  border: 1px solid #7d9d9c;
+  border-radius: 7%;
+  text-align: center;
+  background-color: #ffffff;
+  color: #2f4f4f;
+}
+
+.org h1,
+.org h5 {
+  color: #2f4f4f;
+}
+.org h1 {
+  font-size: 90%;
+}
+
+.org button {
+  background-color: #5f9ea0;
+  border: 1px solid #367d80;
+  border-radius: 10px;
+  padding: 8px 15px;
+}
+.org a:hover,
+.org button:hover{
+  background-color: #2f4f4f;
+}
+.org a {
+  text-decoration: none;
+  color: white;
+}
+
+.v-img {
+  width: 240px;
+  height: 230px;
+  object-fit: fill;
+  display: block;
+  border-radius: 10px;
+}

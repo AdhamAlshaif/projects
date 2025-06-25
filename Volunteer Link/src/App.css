@@ -1,0 +1,11 @@
+.App {
+  margin-top: 10vh;
+  text-align: center;
+}
+.App h1 {
+  color: #afeeee;
+  font-size: 250%;
+  margin-bottom: 9%;
+  font-weight: 1000;
+  text-shadow: black 1px 0 10px;
+}
