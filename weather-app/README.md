@@ -1,8 +1,8 @@
 # Web Development Project 5 - *Weather App*
 
-Submitted by: **Adham Alshaif**
+Submitted by: **Adham**
 
-This web app: **This app shows different wathers of 10 different cities**
+This web app: **show the weather of 10 different cities**
 
 Time spent: **12** hours spent in total
 
