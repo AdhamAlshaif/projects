@@ -1,0 +1,62 @@
+/* Reset & base styles */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f5f7fa;
+}
+
+.dashboard {
+  max-width: 800px;
+  margin: 40px auto;
+  padding: 0 24px;
+}
+
+/* Search & filter inputs */
+.search-bar,
+.filter-dropdown {
+  display: block;
+  width: 100%;
+  padding: 12px 16px;
+  margin-bottom: 20px;
+  font-size: 1.05rem;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+  background-color: #fff;
+}
+
+/* Summary stats panel */
+.summary-stats {
+  background-color: #e1ecf7;
+  padding: 20px 24px;
+  margin-bottom: 24px;
+  border-radius: 10px;
+  font-size: 1.05rem;
+  color: #333;
+  box-shadow: 0 1px 5px rgba(0, 0, 0, 0.04);
+}
+
+.summary-stats p {
+  margin: 10px 0;
+  font-weight: 600;
+}
+
+/* Weather rows */
+.weather-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 16px 20px;
+  margin-bottom: 12px;
+  background-color: #ffffff;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  font-size: 1.05rem;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.03);
+}
+
+.weather-row span {
+  flex: 1;
+  text-align: center;
+}
