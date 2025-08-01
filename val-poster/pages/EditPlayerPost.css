@@ -1,0 +1,45 @@
+.edit-container {
+  max-width: 500px;
+  margin: 40px auto;
+  background: #23272f;
+  padding: 32px;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px #0004;
+}
+
+.edit-container h2 {
+  margin-bottom: 24px;
+  color: #fff;
+  text-align: center;
+}
+
+.edit-container form label {
+  display: block;
+  margin-bottom: 6px;
+  color: #cbd5e1;
+}
+
+.edit-container form input,
+.edit-container form textarea {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 18px;
+  border-radius: 6px;
+  border: none;
+  background: #2d3748;
+  color: #fff;
+}
+
+.edit-container form button {
+  margin-right: 12px;
+  padding: 8px 18px;
+  background: #4299e1;
+  color: #fff;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.edit-container form button:last-child {
+  background: #e53e3e;
+}

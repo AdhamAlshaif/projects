@@ -1,0 +1,30 @@
+.post-detail-container {
+  max-width: 500px;
+  margin: 40px auto;
+  background: #23272f;
+  padding: 32px;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px #0004;
+  color: #fff;
+}
+
+.post-detail-container h1 {
+  margin-bottom: 24px;
+  text-align: center;
+}
+
+.post-detail-container p {
+  margin-bottom: 14px;
+  font-size: 18px;
+}
+
+.post-detail-container button {
+  margin-right: 12px;
+  padding: 8px 18px;
+  background: #4299e1;
+  color: #fff;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  margin-bottom: 10px;
+}

@@ -1,0 +1,18 @@
+
+.header {
+    background-color: #2d3748;
+    padding: 20px;
+    color: white;
+    text-align: center;
+    font-size: 20px;
+}
+.link{
+    color: white;
+    text-decoration: none;
+}
+
+.headerContent{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}

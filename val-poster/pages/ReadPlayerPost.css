@@ -1,0 +1,16 @@
+.posts-container {
+  max-width: 1200px;
+  margin: 40px auto;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 24px;
+  justify-content: center;
+}
+
+.no-posts {
+  color: #cbd5e1;
+  text-align: center;
+  margin-top: 40px;
+  font-size: 22px;
+}
